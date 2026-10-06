@@ -1,0 +1,32 @@
+# CineVision AI
+
+Automatic Cinematography Technique Detection Using Deep Learning
+
+## Objective
+
+Detect cinematography techniques from video using
+computer vision and deep learning.
+
+## Planned Techniques
+
+### Shot Type
+- Extreme Close-Up
+- Close-Up
+- Medium Shot
+- Long Shot
+- Extreme Long Shot
+
+### Camera Angle
+- Eye Level
+- High Angle
+- Low Angle
+- Dutch Angle
+
+### Camera Movement
+- Static
+- Pan
+- Tilt
+- Dolly In
+- Dolly Out
+- Tracking
+- Handheld
